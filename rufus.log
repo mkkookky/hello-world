@@ -1,0 +1,30 @@
+Rufus x86 v3.5.1497
+Windows version: Windows 10 32 bit (Build 18362)
+Syslinux versions: 4.07/2013-07-25, 6.03/2014-10-06
+Grub versions: 0.4.6a, 2.02
+System locale ID: 0x0401 (ar-SA)
+Will use default UI locale 0x0401
+SetLGP: Successfully set NoDriveTypeAutorun policy to 0x0000009E
+Localization set to 'ar-SA'
+Found USB 2.0 device 'TOSHIBA TransMemory USB Device' (0930:6544)
+1 device found
+Disk type: Removable, Disk size: ‎16‎ GB, Sector size: 512 bytes
+Cylinders: 1886, Tracks per cylinder: 255, Sectors per track: 63
+Partition type: SFD (Super Floppy Disk) or Unpartitioned
+Partition 0:
+  Type: FAT32 (0x00)
+  Size: 14.5 GB (15518924800 bytes)
+  Start Sector: 0, Boot: No
+Scanning image...
+ISO analysis:
+  'C:\Users\msken\Desktop\Mac OS X 10.7.5 Update\MacOSXUpd10.7.5.pkg' doesn't look like an ISO image
+Disk image analysis:
+  Image does not have an x86 Master Boot Record
+Disk type: Removable, Disk size: ‎16‎ GB, Sector size: 512 bytes
+Cylinders: 1886, Tracks per cylinder: 255, Sectors per track: 63
+Partition type: SFD (Super Floppy Disk) or Unpartitioned
+Partition 0:
+  Type: FAT32 (0x00)
+  Size: 14.5 GB (15518924800 bytes)
+  Start Sector: 0, Boot: No
+Failed to scan image
